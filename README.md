@@ -1,4 +1,4 @@
-Travel  ![Java CI](https://github.com/Spottedleaf/Tuinity/workflows/Java%20CI/badge.svg)
+Travel
 ==
 
 Fork of [Paper](https://github.com/PaperMC/Paper) aimed at improving server performance at high playercounts.
