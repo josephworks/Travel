@@ -73,6 +73,6 @@ Everything else is licensed under the MIT license, except when note otherwise.
 See https://github.com/starlis/empirecraft and https://github.com/electronicboy/byof
 for the license of material used/modified by this project.
 
-### Note
+## Note
 
 The fork is based off of aikar's EMC framework found [here](https://github.com/starlis/empirecraft)
