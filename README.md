@@ -4,7 +4,7 @@ Travel
 Fork of [Paper](https://github.com/PaperMC/Paper) aimed at improving server performance at high playercounts.
 
 ## Contact
-[Discord](https://discord.gg/CgDPu27)
+[Discord](https://discord.gg/uHRrAAHZs2)
 
 ## How To (Server Admins)
 Travel uses the same paperclip jar system that Paper uses.
