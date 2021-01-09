@@ -1,7 +1,7 @@
 From 0000000000000000000000000000000000000000 Mon Sep 17 00:00:00 2001
-From: Spottedleaf <Spottedleaf@users.noreply.github.com>
+From: Yuwmentorz <yuwmentorz@gmail.com>
 Date: Fri, 14 Dec 2018 21:52:29 -0800
-Subject: [PATCH] Tuinity POM Changes
+Subject: [PATCH] Travel POM Changes
 
 
 diff --git a/pom.xml b/pom.xml
