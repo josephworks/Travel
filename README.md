@@ -14,7 +14,7 @@ You can download the latest build of Travel by going [here](http://ci.josephwork
 You can also [build it yourself](https://github.com/TravelMC/Travel#building)
 
 ## How To (Plugin developers)
-In order to use Travel as a dependency you must [build it yourself](https://github.com/Travel/Travel#building).
+In order to use Travel as a dependency you must [build it yourself](https://github.com/TravelMC/Travel#building).
 Each time you want to update your dependency you must re-build tuinity.
 
 Travel-API maven dependency:
