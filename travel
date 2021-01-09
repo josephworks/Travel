@@ -64,7 +64,7 @@ case "$1" in
         cd ../Paper/Paper-MojangAPI && mvn -e clean install
         cd ../../${FORK_NAME}-Server && mvn -e clean install
         cd "$basedir"
-        ./scripts/paperclip.sh
+        scripts/paperclip.sh
     )
     ;;
     "d" | "de" | "deploy")
