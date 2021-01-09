@@ -69,7 +69,7 @@ corresponding patch file.
 The PATCHES-LICENSE file describes the license for api & server patches,
 found in `./patches` and its subdirectories except when noted otherwise.
 
-Everything else is licensed under the MIT license, except when note otherwise.
+Everything else is licensed under the GPLv3 license, except when note otherwise.
 See https://github.com/starlis/empirecraft and https://github.com/electronicboy/byof
 for the license of material used/modified by this project.
 
