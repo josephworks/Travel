@@ -9,7 +9,7 @@ Fork of [Paper](https://github.com/PaperMC/Paper) aimed at improving server perf
 ## How To (Server Admins)
 Travel uses the same paperclip jar system that Paper uses.
 
-You can download the latest build of Travel by going [here](https://ci.codemc.io/job/TravelMC/job/Travel/).
+You can download the latest build of Travel by going [here](http://ci.josephworks.net/job/TravelMC/Travel/).
 
 You can also [build it yourself](https://github.com/Spottedleaf/Travel#building)
 
