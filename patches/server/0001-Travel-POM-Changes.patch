@@ -50,7 +50,7 @@ index f641d2a79cbc38bc4ecffdbd8d1e1a5f9aa118f5..869fb6f6b9612de0e2786c9a86ee9285
      <build>
 -        <finalName>paper-${minecraft.version}</finalName>
 -        <defaultGoal>clean install</defaultGoal> <!-- Paper -->
-+        <finalName>tuinity-${minecraft.version}</finalName>
++        <finalName>travel-${minecraft.version}</finalName>
 +        <defaultGoal>install</defaultGoal> <!-- Paper -->
          <plugins>
              <plugin>
